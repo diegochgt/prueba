@@ -1,3 +1,6 @@
 <?php
-$hola = "Hola!";
-echo $hola;
+$a = 10;
+$b = 25;
+$c = $a + $b;
+echo $c;
+
